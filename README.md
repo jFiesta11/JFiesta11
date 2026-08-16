@@ -11,13 +11,14 @@ My name is **Justine Josh Fiesta**, an aspiring ***software developer/engineer**
 
 ## 🏫 Education
 * Undergraduate at De La Salle College of Saint Benilde.
+* Majoring in ***Business Solutions and Applications***
 <p align="center">
-  <img width="100" height="100" alt="my-school" src="https://github.com/user-attachments/assets/62b6a7fe-18e2-48c4-a343-1315a4859d69" style="display: block; margin: 0 auto;" />
+    <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/b601ee5c-456b-41da-abba-2126d3333547" />
 </p>
 
 **<p align="center">Animo Benilde!🏹🏹</p>**
 ## 🔗 Let's Connect!
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/) 
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](www.linkedin.com/in/justine-josh-fiesta-b69947417) 
 [![instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/joshzfiest/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/justinefiesta11)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/joshFiesta/)
